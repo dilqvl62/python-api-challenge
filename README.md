@@ -30,21 +30,21 @@ In this deliverable, you'll create a Python script to visualize the weather of o
 ![Screen Shot 2023-10-22 at 10 41 47 PM](https://github.com/dilqvl62/python-api-challenge/assets/107519883/198dc69b-541e-4a7d-b309-6046b3f76487)
 
 Next, create a series of scatter plots. The linear regression line, the model's formula, and the r values as you can see in the following images:
-      * Northern Hemisphere: [Temperature vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Temperature%20vs.%20Latitude.png)
-      
-      * Southern Hemisphere: [Temperature vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Temp%20vs.%20Lat.png)
-      
-      * Northern Hemisphere: [Humidity vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Latitude%20vs%20Humidity%20(NH).png)
-      
-      * Southern Hemisphere: [Humidity vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Lat%20vs%20Humidity%20(SH).png)
-      
-      * Northern Hemisphere: [Cloudiness vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Cloudiness%20vs%20latitude%20(NH).png)
-      
-      * Southern Hemisphere: [Cloudiness vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Cloudiness%20vs%20latitude%20(SH).png)
-      
-      * Northern Hemisphere: [Wind Speed vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Latitude%20vs%20windSpeed%20(NH).png)
-      
-      * Southern Hemisphere: [Wind Speed vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Latitude%20vs%20windSpeed%20(SH).png)
+ * Northern Hemisphere: [Temperature vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Temperature%20vs.%20Latitude.png)
+   
+ * Southern Hemisphere: [Temperature vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Temp%20vs.%20Lat.png)
+   
+ * Northern Hemisphere: [Humidity vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Latitude%20vs%20Humidity%20(NH).png)
+   
+ * Southern Hemisphere: [Humidity vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Lat%20vs%20Humidity%20(SH).png)
+   
+ * Northern Hemisphere: [Cloudiness vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Cloudiness%20vs%20latitude%20(NH).png)
+   
+ * Southern Hemisphere: [Cloudiness vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Cloudiness%20vs%20latitude%20(SH).png)
+   
+ * Northern Hemisphere: [Wind Speed vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Latitude%20vs%20windSpeed%20(NH).png)
+   
+ * Southern Hemisphere: [Wind Speed vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Latitude%20vs%20windSpeed%20(SH).png)
 
 
 

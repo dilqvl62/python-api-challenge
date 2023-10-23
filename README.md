@@ -20,9 +20,9 @@ In this deliverable, you'll create a Python script to visualize the weather of o
   Next, you'll create a series of scatter plots to showcase the following relationships:
 
    * [Latitude vs. Temperature](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Fig1.png) 
-   * Latitude vs. Humidity
-   * Latitude vs. Cloudiness
-   * Latitude vs. Wind Speed
+   * [Latitude vs. Humidity](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Fig2.png)
+   * [Latitude vs. Cloudiness](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Fig3.png)
+   * [Latitude vs. Wind Speed](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Fig4.png)
 
 
 

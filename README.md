@@ -23,6 +23,11 @@ In this deliverable, you'll create a Python script to visualize the weather of o
    * [Latitude vs. Humidity](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Fig2.png)
    * [Latitude vs. Cloudiness](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Fig3.png)
    * [Latitude vs. Wind Speed](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Fig4.png)
+ 
+* Requirement 2: Compute Linear Regression for Each Relationship
+
+  Define a function in order to create the linear regression plots.
+![Screen Shot 2023-10-22 at 10 41 47 PM](https://github.com/dilqvl62/python-api-challenge/assets/107519883/198dc69b-541e-4a7d-b309-6046b3f76487)
 
 
 

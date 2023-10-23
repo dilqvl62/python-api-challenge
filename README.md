@@ -46,6 +46,20 @@ Next, create a series of scatter plots. The linear regression line, the model's 
    
  * Southern Hemisphere: [Wind Speed vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Latitude%20vs%20windSpeed%20(SH).png)
 
+## Part 2: VacationPy
+use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
+
+1. Create a map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
+   
+  ![Screen Shot 2023-10-22 at 11 32 06 PM](https://github.com/dilqvl62/python-api-challenge/assets/107519883/14c1204c-13e5-4605-9205-d40eefeb4bdf)
+
+2. Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
+
+3. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
+
+4. Add the hotel name and the country as additional information in the hover message for each city on the map:
+
+![Screen Shot 2023-10-22 at 11 34 21 PM](https://github.com/dilqvl62/python-api-challenge/assets/107519883/70529d07-7f4f-445c-b39d-f3752c22ab92)
 
 
 

@@ -19,8 +19,11 @@ In this deliverable, you'll create a Python script to visualize the weather of o
    Next, you'll create a series of scatter plots to showcase the following relationships:
 
             * Latitude vs. Temperature 
+
             * Latitude vs. Humidity
+
             * Latitude vs. Cloudiness
+
             * Latitude vs. Wind Speed
 
 

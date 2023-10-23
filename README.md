@@ -17,7 +17,6 @@ In this deliverable, you'll create a Python script to visualize the weather of o
    To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated using the following code .
    ![Screen Shot 2023-10-22 at 10 20 38 PM](https://github.com/dilqvl62/python-api-challenge/assets/107519883/bd5a514a-fc0b-44eb-8407-99d27e7fef46)
    Next, you'll create a series of scatter plots to showcase the following relationships:
-
              Latitude vs. Temperature 
              Latitude vs. Humidity
              Latitude vs. Cloudiness

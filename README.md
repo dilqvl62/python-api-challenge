@@ -2,7 +2,7 @@
 Using Python requests, APIs, and JSON traversals to answer a fundamental question:  What is the weather like as we approach the equator
 
 ## Add a .gitignore File
-For this assignment, you will need to add a .gitignore file to your repo.
+For this assignment, I will need to add a .gitignore file to your repo.
 Before adding your files to GitHub, add api_keys.py to the .gitignore file by following these steps:
    1. Open your python-api-challenge GitHub folder in VS Code.
    2. Open the .gitignore file and type the following code on the first line:
@@ -11,10 +11,10 @@ Before adding your files to GitHub, add api_keys.py to the .gitignore file by fo
 # Objectives 
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 ## Part 1: WeatherPy
-In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the [citipy Python library](https://pypi.org/project/citipy/), [the OpenWeatherMap API](https://openweathermap.org/api),  to create a representative model of weather across cities.
+In this deliverable, I'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. I'll use the [citipy Python library](https://pypi.org/project/citipy/), [the OpenWeatherMap API](https://openweathermap.org/api),  to create a representative model of weather across cities.
 
 * Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
-   To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated using the following code .
+   To fulfill the first requirement, I'll use the OpenWeatherMap API to retrieve weather data from the cities list generated using the following code .
    ![Screen Shot 2023-10-22 at 10 20 38 PM](https://github.com/dilqvl62/python-api-challenge/assets/107519883/bd5a514a-fc0b-44eb-8407-99d27e7fef46)
 
   Next, I'll create a series of scatter plots to showcase the following relationships:
@@ -29,7 +29,7 @@ In this deliverable, you'll create a Python script to visualize the weather of o
   Define a function in order to create the linear regression plots.
 ![Screen Shot 2023-10-22 at 10 41 47 PM](https://github.com/dilqvl62/python-api-challenge/assets/107519883/198dc69b-541e-4a7d-b309-6046b3f76487)
 
-Next, create a series of scatter plots. The linear regression line, the model's formula, and the r values as you can see in the following images:
+Next, I create a series of scatter plots. The linear regression line, the model's formula, and the r values as you can see in the following images:
  * Northern Hemisphere: [Temperature vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Temperature%20vs.%20Latitude.png)
    
  * Southern Hemisphere: [Temperature vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Temp%20vs.%20Lat.png)
@@ -47,7 +47,7 @@ Next, create a series of scatter plots. The linear regression line, the model's 
  * Southern Hemisphere: [Wind Speed vs. Latitude](https://github.com/dilqvl62/python-api-challenge/blob/main/output_data/Latitude%20vs%20windSpeed%20(SH).png)
 
 ## Part 2: VacationPy
-use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
+use the Geoapify API and the geoViews Python library to create map visualizations.
 
 1. Create a map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
    
